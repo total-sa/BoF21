@@ -1,8 +1,9 @@
-# Agenda of the HPC in Energy Transition BoF
+# Agenda of the High Performance Computing in the Energy Transition BoF
+## Organizers: Detlef Hohl (Shell), Guy Gueritz (NVIDIA), Elizabeth L'Heureux (BP) and Mauricio Araya (TotalEnergies)
 
 17:15 Welcome and Introduction to the BoF session (Organizing Committee)
 
-17:17 Three Energy Majors and their Energy Transition Strategies: Elizabeth l’Heureux (BP), Detlef Hohl (Shell) and Mauricio Araya (Total)
+17:17 Three Energy Majors and their Energy Transition Strategies: Elizabeth l’Heureux (BP), Detlef Hohl (Shell) and Mauricio Araya (TotalEnergies)
 
 17:32 (speaker tbd, Nvidia) "HPC for Smart grids"
 
@@ -18,6 +19,6 @@
 
 18:14 D. Snelling (Fujitsu) "Quantum-inspired Optimization of Virtual Power Plant Networks".
 
-18:21 Avishai Halev (UC Davis) “Reinforcement learning for microgrids”
+18:21 Avishai Halev (UC Davis) “Reinforcement learning for Microgrids”
 
 18:30-18:45 Q&A, Discussion and White Paper planning
