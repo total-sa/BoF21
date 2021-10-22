@@ -1,5 +1,5 @@
-# Agenda of the High Performance Computing in the Energy Transition BoF
-## Organizers: Detlef Hohl (Shell), Guy Gueritz (NVIDIA), Elizabeth L'Heureux (BP) and Mauricio Araya (TotalEnergies)
+## Agenda of the High Performance Computing in the Energy Transition BoF
+### Organizers: Detlef Hohl (Shell), Guy Gueritz (NVIDIA), Elizabeth L'Heureux (BP) and Mauricio Araya (TotalEnergies)
 
 17:15 Welcome and Introduction to the BoF session (Organizing Committee)
 
