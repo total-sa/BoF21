@@ -1,7 +1,7 @@
 ## Agenda of the High Performance Computing in the Energy Transition BoF
 ### Organizers: Detlef Hohl (Shell), Guy Gueritz (NVIDIA), Elizabeth L'Heureux (BP) and Mauricio Araya (TotalEnergies)
 
-![SC21 BoF description](bof)
+![SC21 BoF description](BoF.png)
 
 Agenda:
 
