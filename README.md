@@ -15,7 +15,7 @@ Agenda:
 
 17:39 Randy Settgast (LLNL) "HPC aspects of CCS simulations with GEOSX"
 
-17:46 Jon Rood (NREL) “Wind Farm design and operation”
+17:46 Jon Rood (NREL) “Creating a predictive wind farm simulation capability on GPU-accelerated supercomputers”
 
 17:53 M. Barbar and D. Mallapragada (MIT) "Electricity resource capacity expansion models for planning reliable and low-carbon grids".
 
