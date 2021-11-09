@@ -11,7 +11,7 @@ Agenda:
 
 17:17 Three Energy Majors and their Energy Transition Strategies: Elizabeth l’Heureux (BP), Detlef Hohl (Shell) and Mauricio Araya (TotalEnergies)
 
-17:32 (speaker tbd, Nvidia) "HPC for Smart grids"
+17:32 (Ken Hester, Nvidia) "Software Defined Smart Grid"
 
 17:39 Randy Settgast (LLNL) "HPC aspects of CCS simulations with GEOSX"
 
