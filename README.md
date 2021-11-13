@@ -5,7 +5,7 @@
 
 ---
 
-Agenda:
+Agenda (CST):
 
 17:15 Welcome and Introduction to the BoF session (Organizing Committee)
 
